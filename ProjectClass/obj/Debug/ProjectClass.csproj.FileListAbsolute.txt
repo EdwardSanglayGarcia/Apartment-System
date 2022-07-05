@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\FinalProjectA\ProjectClass\bin\Debug\ProjectClass.dll
+C:\Users\Dell\Desktop\FinalProjectA\ProjectClass\bin\Debug\ProjectClass.pdb
+C:\Users\Dell\Desktop\FinalProjectA\ProjectClass\obj\Debug\ProjectClass.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\FinalProjectA\ProjectClass\obj\Debug\ProjectClass.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FinalProjectA\ProjectClass\obj\Debug\ProjectClass.dll
+C:\Users\Dell\Desktop\FinalProjectA\ProjectClass\obj\Debug\ProjectClass.pdb
